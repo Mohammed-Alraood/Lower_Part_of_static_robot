@@ -1,0 +1,1 @@
+# Lower_Part_of_static_robot
